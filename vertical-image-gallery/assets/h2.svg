@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.89 595.28">
+  <g id="Layer_1" data-name="Layer 1">
+    <rect width="841.89" height="595.28" style="fill: #aeadad;"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <g>
+      <path d="M357.84,318.31v19.5h-81.3v-105h79.35v19.5h-55.2v22.8h48.75v18.9h-48.75v24.3h57.15Z" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+      <path d="M458.04,291.61v46.2h-23.4v-42.6c0-13.05-6-19.05-16.35-19.05-11.25,0-19.35,6.9-19.35,21.75v39.9h-23.4v-80.7h22.35v9.45c6.3-6.9,15.75-10.65,26.7-10.65,19.05,0,33.45,11.1,33.45,35.7Z" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+      <path d="M562.29,226.51v111.3h-22.35v-9.3c-5.85,7.05-14.4,10.5-25.2,10.5-22.8,0-40.35-16.2-40.35-41.55s17.55-41.55,40.35-41.55c9.9,0,18.3,3.15,24.15,9.75v-39.15h23.4Zm-22.95,70.95c0-13.95-9-22.35-20.55-22.35s-20.7,8.4-20.7,22.35,9,22.35,20.7,22.35,20.55-8.4,20.55-22.35Z" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    </g>
+  </g>
+</svg>
