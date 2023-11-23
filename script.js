@@ -1,7 +1,8 @@
 const projects = [
     'portfolio-project-previews',
     'infinite-vertical-image-gallery',
-    'vertical-image-gallery'
+    'vertical-image-gallery',
+    '3d-island-portfolio'
   ];
   
   const list = document.getElementById('list');
